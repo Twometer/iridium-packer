@@ -1,0 +1,9 @@
+*.db
+*.lock
+*.pdb
+*.exe
+*.dll
+.vs/
+obj/
+bin/
+package-lock.json
